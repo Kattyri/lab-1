@@ -1,0 +1,4 @@
+﻿  laba.cpp
+C:\Users\настя\source\repos\laba\laba.cpp(121,9): error C3861: AddLast_Mylist: идентификатор не найден
+C:\Users\настя\source\repos\laba\laba.cpp(127,5): error C3861: Print_Mylist: идентификатор не найден
+C:\Users\настя\source\repos\laba\laba.cpp(129,5): error C3861: Delete_Mylist: идентификатор не найден
